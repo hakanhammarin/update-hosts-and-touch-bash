@@ -3,6 +3,8 @@ app2.js
 # Logs
 logs
 *.log
+*.csv
+*.txt
 
 # Runtime data
 pids
@@ -75,7 +77,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-*.csv
-*.txt
-*.log
